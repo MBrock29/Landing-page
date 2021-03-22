@@ -1,6 +1,5 @@
 import React from 'react'
 import Illustration from "./Illustration.jpg"
-import Me from "./Me.jpg"
 
 export default function Hero() {
     return (
