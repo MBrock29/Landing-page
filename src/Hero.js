@@ -4,7 +4,7 @@ import Illustration from "./Illustration.jpg"
 export default function Hero() {
     return (
         <div className="hero">
-            <div className="heroLeft"><img src={Illustration} className="illustration"/></div>
+            <div className="heroLeft"><img alt="/" src={Illustration} className="illustration"/></div>
             <div className="heroRight"><h2>About me</h2>
             <span>A highly motivated former finance professional who is ambitious to pursue a career in web development, specifically React. 
                 Currently in my first role within the industry and looking to build on this experience by moving into a Junior React Developer role.

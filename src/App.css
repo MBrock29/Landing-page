@@ -172,3 +172,10 @@
 a {
   color: white;
 }
+.quote {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+.quoteAuthor {
+  font-size: 17px;
+}

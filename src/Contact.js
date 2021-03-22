@@ -15,9 +15,9 @@ export default function Contact() {
             <div className="contactCard"><div className="contactTitle">Phone&nbsp;<PhoneIphoneIcon /></div>
             <div><p>07902 352381</p></div></div>
             <div className="contactCard"><div className="contactTitle">LinkedIn&nbsp;<LinkedInIcon /></div>
-            <div><p><a href="https://www.linkedin.com/in/michael-brock-48909998/">Click here!</a></p></div></div>
+            <div><p><a href="https://www.linkedin.com/in/michael-brock-48909998/" target="_blank" >Click here!</a></p></div></div>
             <div className="contactCard"><div className="contactTitle">GitHub&nbsp;<GitHubIcon /></div>
-            <div><p><a href="https://github.com/MBrock29">Click here!</a></p></div></div>
+            <div><p><a href="https://github.com/MBrock29" target="_blank" >Click here!</a></p></div></div>
             </div>
         </div>
     )
